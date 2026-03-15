@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI-powered security tools for GDPR-compliant German enterprise environments<br><br>👯 I'm looking to collaborate on LangGraph agents, RAG pipelines, and LLM security research<br><br>🤝 I'm looking for help with German language learning and connecting with AI teams in Germany<br><br>🌱 I'm currently learning German (A1 → A2) and advanced LangGraph multi-agent patterns<br><br>💬 Ask me about LangChain, LangGraph, RAG, Ollama, GDPR-compliant AI, LLM red teaming<br><br>⚡ Fun fact I built a tool that tests LLMs for security vulnerabilities<br>using another LLM as the judge — all running locally
+🔭 I'm currently working on AI-powered security tools for GDPR-compliant German enterprise environments<br><br>👯 I'm looking to collaborate on LangGraph agents, RAG pipelines, and LLM security research<br><br>🤝 I'm looking for help with German language learning and connecting with AI teams in Germany<br><br>🌱 I'm currently learning German (A1 → A2) and advanced LangGraph multi-agent patterns<br><br>💬 Ask me about LangChain, LangGraph, RAG, Ollama, GDPR-compliant AI, LLM red teaming<br><br>⚡ Fun fact I built a tool that tests LLMs for security vulnerabilities using another LLM as the judge — all running locally
 
 
 ## 🌐 Socials:
